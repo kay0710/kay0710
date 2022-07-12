@@ -2,16 +2,15 @@
  
 
 
-- 👋 Hi, I’m @kay0710
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m kay
+- 👀 I’m interested in AI Deap learning 
+- 🌱 I’m currently learning Deap learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me [Kay's velog](https://velog.io/@kay0710)
 
-<img src="https://github-readme-stats.vercel.app/api?username=kay0710&hide=stars&show_icons=true&theme=tokyonight"/></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kay0710&layout=compact)](https://github.com/kay0710/github-readme-stats)
   
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kay0710&show_icons=true&theme=tokyonight)
 
 <!---
 kay0710/kay0710 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
