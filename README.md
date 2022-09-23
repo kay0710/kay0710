@@ -6,7 +6,7 @@
 - 👀 I’m interested in AI Deap learning 
 - 🌱 I’m currently learning Deap learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [Kay's velog](https://velog.io/@kay0710)
+- 📫 How to reach me [Kay's DevStory](https://kay-dev.tistory.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kay0710&layout=compact)](https://github.com/kay0710/github-readme-stats)
   
